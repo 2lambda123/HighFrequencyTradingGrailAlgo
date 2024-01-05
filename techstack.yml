@@ -2,7 +2,7 @@ repo_name: 2lambda123/HighFrequencyTradingGrailAlgo
 report_id: 5c7674a55053d836818bacdbb4a2bc31
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:30:00+00:00'
+timestamp: '2024-01-05T08:13:40+00:00'
 requested_by: snorkell-ai[bot]
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/HighFrequencyTradingGrailAlgo
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -25,6 +26,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/HighFrequencyTradingGrailAlgo/blob/master/.github/workflows/snorkell-auto-documentation.yml
   detection_source: ".github/workflows/snorkell-auto-documentation.yml"
   last_updated_by: snorkell-ai[bot]
   last_updated_on: 2023-12-20 11:02:07.000000000 Z
